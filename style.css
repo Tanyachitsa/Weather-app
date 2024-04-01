@@ -1,0 +1,101 @@
+h4 {
+  border-bottom: 2px solid #939aa9;
+  width: 85%;
+  margin: 0px 0px 0px 68px;
+}
+h5 {
+  font-size: 20px;
+}
+h6 {
+  font-size: 50px;
+}
+.search-glass {
+  border: none;
+  background: none;
+}
+
+button {
+  transition: ease-in-out 200ms;
+  background-color: transparent;
+}
+button:hover {
+  opacity: 0.7;
+}
+
+.col-7.city {
+  font-size: 40px;
+  color: #939aa9;
+  text-align: center;
+}
+.col-3.temperature {
+  font-size: 20px;
+  color: #939aa9;
+}
+.degrees {
+  position: relative;
+  top: -20px;
+}
+.degrees:hover {
+  cursor: pointer;
+}
+.col-2.high-low-temp {
+  font-size: 20px;
+  color: #939aa9;
+}
+.col-7.sky {
+  font-size: 20px;
+  text-align: center;
+  color: #939aa9;
+}
+.forecast {
+  margin: 50px;
+  border-radius: 5px;
+  border-style: outset;
+}
+.precipitation {
+  margin: 50px;
+  border-radius: 5px;
+  border-style: outset;
+}
+.wind {
+  margin: 50px;
+  border-style: outset;
+  border-radius: 5px;
+}
+.search {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+  right: 0;
+  top: 2%;
+}
+.text-box {
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid #767676;
+}
+.three-buttons {
+  text-align: center;
+  margin: 100px 0px 0px 0px;
+  transition: all 200ms ease-in-out;
+}
+
+.list-group-item {
+  border: none;
+  text-align: center;
+}
+.temp {
+  font-size: 50px;
+}
+.row {
+  margin: 0px 0px 0px 50px;
+}
+.weather-app {
+  border: 1px solid #939aa9;
+  padding: 30px 15px;
+  margin: 30px;
+}
+.theTime {
+  font-size: 17px;
+}
